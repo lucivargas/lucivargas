@@ -1,30 +1,10 @@
-## Luciana Vargas
+## Luciana Vargas, BSc, MSc
 
 <!--
 **lucivargas/lucivargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-
 ### PhD Candidate in Human Medical Genetics and Genomics
-
-#### Background
-I am **Luciana Vargas, MSc**, a **_fifth-year predoctoral research associate_** in the [Human Medical Genetics and Genomics Program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home) at the [University of Colorado Anschutz, Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi/). 
-
-I obtained my undergraduate degreee in Biomedical Sciences and Master's degree in Genetics from the [Federal University of Paraná (UFPR)](https://internacional.ufpr.br/portal/about-ufpr/) in Curitiba, Brazil, as part of the [Human Molecular Genetics Laboratory (LGMH)](https://lgmh.ufpr.br). I also completed a study abroad focused in Medical Genetics at [Monash University](https://www.monash.edu/study/courses/find-a-course/biomedical-science-m2003), in Melbourne, Australia. 
-
-#### Work
-My day-to-day as a **_genetic epidemiologist_** involves using large health research consortia to enhance the utility of polygenic risk scores (PRS), social determinants of health (SDoH), and multi-omics (epigenomics, transcriptomics, proteomics & metabolomics) in characterizing and predicting pulmonary and cardiovascular diseases. 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lucivargas)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-b-vargas/)
@@ -32,6 +12,13 @@ My day-to-day as a **_genetic epidemiologist_** involves using large health rese
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:luciana.vargas@cuanschutz.edu)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Luciana-Vargas-5)
 [![GoogleScholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=1xcYqucAAAAJ&view_op=list_works&sortby=pubdate)
+
+#### Background
+
+I obtained my undergraduate degreee in Biomedical Sciences and Master's degree in Genetics from the [Federal University of Paraná (UFPR)](https://internacional.ufpr.br/portal/about-ufpr/) in Curitiba, Brazil, as part of the [Human Molecular Genetics Laboratory (LGMH)](https://lgmh.ufpr.br). I also completed a study abroad focused in Medical Genetics at [Monash University](https://www.monash.edu/study/courses/find-a-course/biomedical-science-m2003), in Melbourne, Australia. I am currently a **_fifth-year PhD candidate_** in the [Human Medical Genetics and Genomics Program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home) at the [Department of Biomedical Informatics @ University of Colorado Anschutz](https://medschool.cuanschutz.edu/dbmi/). 
+
+#### Current Work
+My day-to-day as a **_genetic epidemiologist_** involves using large health research consortia to enhance the utility of polygenic risk scores (PRS), social determinants of health (SDoH), and multi-omics (epigenomics, transcriptomics, proteomics & metabolomics) in characterizing and predicting pulmonary and cardiovascular diseases. 
 
 #### Collaborations
 
@@ -46,7 +33,7 @@ Throughout my doctoral journey, I worked as part of multiple collaborative conso
 
 #### Publications
 
-Some of my recent publications include:
+Some of my recent and most relevant publications include:
 
 - Ancestry Calibration of Polygenic Risk Scores Improves Risk Stratification and Effect Estimation in African American Adults. Vargas *et al* (2025). [medRxiv preprint](https://pmc.ncbi.nlm.nih.gov/articles/PMC12204301/)
 - Omic Risk Scores are Associated with COPD-related Traits Across Three Cohorts. Konigsberg, Vargas *et al* (2025). [medRxiv preprint](https://pmc.ncbi.nlm.nih.gov/articles/PMC12155009/)
