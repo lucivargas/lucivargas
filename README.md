@@ -41,3 +41,19 @@ Some of my recent and most relevant publications include:
 
 More publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=1xcYqucAAAAJ&sortby=pubdate).
 
+#### Languages & Tools 🔧
+
+<!-- Your github readme stats
+You can use this api: https://github-readme-stats.vercel.app
+-->
+<p>
+  <a href="https://github-readme-stats.vercel.app/api?username=lucivargas&show_icons=true">
+    <img width="55%" align="right" alt="Kristina's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucivargas&show_icons=true&hide_border=true" />
+  </a>
+
+  <!-- Your languages and tools. Be careful with the alignment.
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
+  <code><img width="20%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
+</p>
