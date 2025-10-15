@@ -54,6 +54,6 @@ You can use this api: https://github-readme-stats.vercel.app
   <!-- Your languages and tools. Be careful with the alignment.
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
 </p>
